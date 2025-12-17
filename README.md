@@ -26,8 +26,7 @@ I spend 10% of my time writing code and 90% of my time wondering why the `div` w
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=briyantz&show_icons=true&theme=shades-of-purple&hide_border=true&title_color=45A1FF&text_color=ffffff&icon_color=45A1FF" />
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=briyantz&layout=compact&theme=yeblu&hide_border=true&title_color=45A1FF&text_color=ffffff&icon_color=45A1FF" />
 </p>
 
